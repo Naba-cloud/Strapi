@@ -1,0 +1,2 @@
+# Strapi
+practicing strapi
